@@ -1,3 +1,4 @@
-console.log("Rodando o sistema de gerenciamento de jogos!");
-console.log("Eu estou aparecendo no console!");
-console.log("Adolfo Nalin Junior");
+let idade = 19; 
+let nome = "Adolfo";
+
+console.log("A idade do " + nome + " é " + idade + " anos de idade");
